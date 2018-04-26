@@ -25,3 +25,18 @@ Design the layout for the detail activity so the different elements
 display in a sensible way. Implement the JSON parsing in JsonUtils so it
 produces a Sandwich Object that can be used to populate the UI that you designed.
 # sandwich-club
+
+## Main page
+<div>
+    <img src="https://raw.github.com/GinaHsu/sandwich-club/master/screenshots/Screenshot_20180426-090613.png" width="300px"</img> 
+</div>
+
+## Sandwich detail page
+<div>
+    <img src="https://raw.github.com/GinaHsu/sandwich-club/master/screenshots/Screenshot_20180426-090640.png" width="300px"</img> 
+</div>
+
+## Scrollable
+<div>
+    <img src="https://raw.github.com/GinaHsu/sandwich-club/master/screenshots/Screenshot_20180426-090643.png" width="300px"</img> 
+</div>
